@@ -5,7 +5,7 @@ package cn.com.tcsl.strategypattern;
 
 /**
  * <P>
- * Description:策略接口
+ * Description:策略接口adfadf
  * </p>
  * @author libing
  * @version 1.0
