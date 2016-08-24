@@ -2,4 +2,4 @@
 .settings
 .classpath
 .idea
-designpattern.iml
+*.iml
